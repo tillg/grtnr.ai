@@ -4,7 +4,7 @@ email: till.gartner@gmail.com
 description: My AI playground
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grtnr.ai" # the base hostname & protocol for your site, e.g. http://example.com
-show_downloads: "false"
+#show_downloads: "false"
 twitter_username: tillg
 github_username:  tillg
 
