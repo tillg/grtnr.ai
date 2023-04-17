@@ -1,5 +1,6 @@
 ---
 title: "Augmented GPT"
+layout: post
 ---
 
 A thing I would love to build: A GPT client (running against GPT-3 or GPT-4 - if you have an API Key that grants you access to it) that offers the AI to access external resources.
