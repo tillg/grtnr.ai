@@ -8,6 +8,10 @@ url: "https://grtnr.ai" # the base hostname & protocol for your site, e.g. http:
 twitter_username: tillg
 github_username:  tillg
 
+# Cayman theme specific
+github:
+  # Remove button "View on Github"
+  is_project_page: false
 
 # Build settings
 #theme: minima # minimal-mistakes-jekyll
